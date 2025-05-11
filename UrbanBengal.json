@@ -1,0 +1,112 @@
+{
+  "mensDresses": [
+    {
+      "productId": 1,
+      "title": "Cotton Panjabi",
+      "description": "Soft and breathable cotton panjabi ideal for everyday and prayer wear.",
+      "productImage": "https://example.com/images/mens1.jpg",
+      "price": 1150,
+      "rating": 4.4,
+      "numberOfBuyers": 310
+    },
+    {
+      "productId": 2,
+      "title": "Silk Sherwani",
+      "description": "Premium silk sherwani with embroidery, perfect for weddings and festivals.",
+      "productImage": "https://example.com/images/mens2.jpg",
+      "price": 6800,
+      "rating": 4.7,
+      "numberOfBuyers": 175
+    },
+    {
+      "productId": 3,
+      "title": "Casual Printed Shirt",
+      "description": "Trendy short-sleeve printed shirt made from lightweight cotton fabric.",
+      "productImage": "https://example.com/images/mens3.jpg",
+      "price": 950,
+      "rating": 4.2,
+      "numberOfBuyers": 420
+    },
+    {
+      "productId": 4,
+      "title": "Formal Blazer",
+      "description": "Tailored fit blazer suitable for formal occasions and office wear.",
+      "productImage": "https://example.com/images/mens4.jpg",
+      "price": 4500,
+      "rating": 4.5,
+      "numberOfBuyers": 297
+    },
+    {
+      "productId": 5,
+      "title": "Polo T-Shirt",
+      "description": "Comfortable and stylish polo t-shirt, available in multiple colors.",
+      "productImage": "https://example.com/images/mens5.jpg",
+      "price": 850,
+      "rating": 4.1,
+      "numberOfBuyers": 390
+    },
+    {
+      "productId": 6,
+      "title": "Linen Kurta",
+      "description": "Lightweight linen kurta for a traditional yet modern look.",
+      "productImage": "https://example.com/images/mens6.jpg",
+      "price": 1750,
+      "rating": 4.3,
+      "numberOfBuyers": 268
+    },
+    {
+      "productId": 7,
+      "title": "Slim Fit Jeans",
+      "description": "Stretchable slim-fit jeans designed for comfort and style.",
+      "productImage": "https://example.com/images/mens7.jpg",
+      "price": 1450,
+      "rating": 4.2,
+      "numberOfBuyers": 355
+    },
+    {
+      "productId": 8,
+      "title": "Punjabi with Waistcoat Set",
+      "description": "Traditional panjabi paired with a matching stylish waistcoat.",
+      "productImage": "https://example.com/images/mens8.jpg",
+      "price": 2750,
+      "rating": 4.6,
+      "numberOfBuyers": 210
+    },
+    {
+      "productId": 9,
+      "title": "Checkered Casual Shirt",
+      "description": "Classic checkered shirt suitable for casual outings or office wear.",
+      "productImage": "https://example.com/images/mens9.jpg",
+      "price": 990,
+      "rating": 4.0,
+      "numberOfBuyers": 398
+    },
+    {
+      "productId": 10,
+      "title": "Joggers",
+      "description": "Soft cotton joggers, perfect for workouts and casual wear.",
+      "productImage": "https://example.com/images/mens10.jpg",
+      "price": 1250,
+      "rating": 4.3,
+      "numberOfBuyers": 265
+    },
+    {
+      "productId": 11,
+      "title": "Traditional Lungi",
+      "description": "Comfortable handloom lungi with vibrant patterns for daily use.",
+      "productImage": "https://example.com/images/mens11.jpg",
+      "price": 450,
+      "rating": 4.1,
+      "numberOfBuyers": 500
+    },
+    {
+      "productId": 12,
+      "title": "Embroidered Panjabi (Festive)",
+      "description": "Festive wear panjabi with rich thread embroidery and premium fabric.",
+      "productImage": "https://example.com/images/mens12.jpg",
+      "price": 3200,
+      "rating": 4.8,
+      "numberOfBuyers": 340
+    }
+  ]
+}
